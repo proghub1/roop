@@ -1,4 +1,5 @@
 import threading
+from roop.predictor import predict_frame
 from roop.typing import Frame
 
 # Define the maximum probability threshold for NSFW content
